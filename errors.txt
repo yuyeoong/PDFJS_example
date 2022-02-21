@@ -1,0 +1,155 @@
+#### 10001
+
+Error: 0Um62fYo+7.pdf : InvalidPDFException: Invalid PDF structure.
+Error: 6epAonWKz4.pdf : InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.
+Error: NFBsbN9aKQ.pdf : InvalidPDFException: Invalid PDF structure.
+Error: SWCYEoks8B.pdf : InvalidPDFException: Invalid PDF structure.
+Error: Yw776kcPIt.pdf : InvalidPDFException: Invalid PDF structure.
+Error: jJH8KcAA4W.pdf : InvalidPDFException: Invalid PDF structure.
+Error: x3Las8LoSR.pdf : InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.
+Warning: Indexing all PDF objects
+Warning: Indexing all PDF objects
+Warning: Indexing all PDF objects
+Warning: Indexing all PDF objects
+Warning: Indexing all PDF objects (jFrYnmCrtI.pdf or iZ4kNiLqmj.pdf)
+Warning: fetchStandardFontData: failed to fetch file "FoxitSans.pfb" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.". (ftgr8W01kG.pdf or fnmVGa0Fme.pdf)
+
+#### 10034
+
+#### 10042
+Error: 5wUQs6UcF3.pdf : InvalidPDFException: Invalid PDF structure.
+Error: Mohy2LRddA.pdf : InvalidPDFException: Invalid PDF structure.
+Error: eiXc5zzJsF.pdf : InvalidPDFException: Invalid PDF structure.
+Warning: Indexing all PDF objects (5jjXlHDr+o.pdf or 5y9qMSK5ec.pdf)
+Warning: Indexing all PDF objects(RoZoevUs65.pdf or SS+z5If7qf.pdf)
+Warning: Indexing all PDF objects (ao9F2tpwMa.pdf or bMUMRtSLHs.pdf)
+
+#### 10095
+Error: 8E0ytlSxIg.pdf : InvalidPDFException: Invalid PDF structure.
+Warning: Indexing all PDF objects(D9QX6dUvLy)
+
+"lJrrFxi4QX","v3tWUlTwBQ","zuAuRPSsNm"
+
+#### 10048
+Error: Hy5lwiueSM.pdf : InvalidPDFException: Invalid PDF structure.
+
+#### 10033
+
+#### 10043
+Warning: fetchStandardFontData: failed to fetch file "FoxitSerif.pfb" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.".(8M68d+q4ua or 8aAgotWlL4)
+Warning: fetchStandardFontData: failed to fetch file "FoxitSerif.pfb" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.".(YJACqc27Tl)
+Warning: fetchStandardFontData: failed to fetch file "FoxitSerif.pfb" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.".(ZjVAmP3GtM or ZvOe5bSIJu)
+
+#### 10049
+
+#### 10028
+
+#### 10056
+
+#### 10053
+
+#### 10057 - 에러 너무 많은데?
+Warning: loadFont - translateFont failed: "UnknownErrorException: The CMap "baseUrl" parameter must be specified, ensure that the "cMapUrl" and "cMapPacked" API parameters are provided.".(1yIevo1maK)
+Warning: loadFont - translateFont failed: "UnknownErrorException: The CMap "baseUrl" parameter must be specified, ensure that the "cMapUrl" and "cMapPacked" API parameters are provided.".
+Warning: loadFont - translateFont failed: "UnknownErrorException: The CMap "baseUrl" parameter must be specified, ensure that the "cMapUrl" and "cMapPacked" API parameters are provided.".
+Warning: Indexing all PDF objects
+
+Error: EPhuYkixpf.pdf : InvalidPDFException: Invalid PDF structure.
+Error: 9Ca+4EtIax.pdf : InvalidPDFException: Invalid PDF structure.
+Error: cVQGWP4Wxq.pdf : InvalidPDFException: Invalid PDF structure.
+Error: tReBnywIov.pdf : InvalidPDFException: Invalid PDF structure.
+Error: B4xecYkBXc.pdf : InvalidPDFException: Invalid PDF structure.
+Error: 3TzH5yJtjA.pdf : InvalidPDFException: Invalid PDF structure.
+Error: jZFO2Rn2P8.pdf : InvalidPDFException: Invalid PDF structure.
+Error: idSC9pJy1y.pdf : InvalidPDFException: Invalid PDF structure.
+Error: sCufK5x9uP.pdf : InvalidPDFException: Invalid PDF structure.
+Error: FGqKCBprbg.pdf : InvalidPDFException: Invalid PDF structure.
+Error: f+aMY0x1K0.pdf : InvalidPDFException: Invalid PDF structure.
+Error: twEumctw5U.pdf : InvalidPDFException: Invalid PDF structure.
+Error: 2R8haefk3a.pdf : InvalidPDFException: Invalid PDF structure.
+Error: CBQB7YO1CY.pdf : InvalidPDFException: Invalid PDF structure.
+Error: CzI8F2wx+8.pdf : InvalidPDFException: Invalid PDF structure.
+Error: 4cJy0tk7PN.pdf : InvalidPDFException: Invalid PDF structure.
+Error: b2uPNVQKC8.pdf : InvalidPDFException: Invalid PDF structure.
+Error: I4RolQe1HT.pdf : InvalidPDFException: Invalid PDF structure.
+Error: dfMjCyw8nb.pdf : InvalidPDFException: Invalid PDF structure.
+
+
+#### 10055 - 전부 다 이상해!! 
+
+#### 10093
+Error: amySqgVSdC.pdf : InvalidPDFException: Invalid PDF structure.
+
+#### 10023
+
+#### 10072
+
+#### 10066
+
+#### 10050
+Error: M9tU9tn7UG.pdf : InvalidPDFException: Invalid PDF structure.
+Error: XwtmcIJQuE.pdf : InvalidPDFException: Invalid PDF structure.
+Warning: Indexing all PDF objects
+
+#### 10064
+
+#### 10027 - perfect
+
+#### 10059
+
+#### 10045 - 전부 스캔본임
+
+#### 10074
+
+#### 10047
+
+#### 10026
+
+#### 10061
+Error: KMnLd6ayJU.pdf : InvalidPDFException: Invalid PDF structure.
+
+#### 10085
+
+#### 10062
+
+#### 10025
+Error: 65ciYdJpgi.pdf : InvalidPDFException: Invalid PDF structure.
+Error: W3LyhFS+6t.pdf : InvalidPDFException: Invalid PDF structure.
+
+#### 10030
+Error: kzkaudxNRk.pdf : InvalidPDFException: Invalid PDF structure.
+
+#### 10046
+Warning: Indexing all PDF objects => 이렇게 생긴 애들은 다 에러로 파싱되지 않음. 사진일 확률이 높다
+Warning: loadFont - translateFont failed: "UnknownErrorException: The CMap "baseUrl" parameter must be specified, ensure that the "cMapUrl" and "cMapPacked" API parameters are provided.".
+
+#### 10067
+
+#### 10070
+Warning: Indexing all PDF objects
+
+#### 10079
+
+#### 10003
+
+#### 10019
+
+#### 10051
+
+#### 10088
+
+#### '10005', '10031', '10039', '10041', '10054', '10058', '10071', '10073', '10082', '10084', '10086', '10087', '10089', '10090', '10092', '10096', '10097', '10098', '10100', '10102', '10103', '10104'
+Error: 2ul6NnkDGN.pdf : InvalidPDFException: Invalid PDF structure.
+Error: JpVuAmJ05t.pdf : InvalidPDFException: Invalid PDF structure.
+Error: l0gO8Uisq2.pdf : InvalidPDFException: Invalid PDF structure.
+Error: nQnQzx+N8y.pdf : InvalidPDFException: Invalid PDF structure.
+Error: 8lY8Et7oJy.pdf : InvalidPDFException: Invalid PDF structure.
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@
+1. PDF가 아닌 것은 작업할 수 없다.
+2. MMPI검사가 아닌 것은 작업할 수 없다.
+3. 
+2. Youth or Adult
